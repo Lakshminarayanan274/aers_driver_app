@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "665956191778",
+    "firebase_url": "https://aers-a0207-default-rtdb.firebaseio.com",
+    "project_id": "aers-a0207",
+    "storage_bucket": "aers-a0207.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665956191778:android:4ec69c37c41c5f5b4c047b",
+        "android_client_info": {
+          "package_name": "com.aers.driverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUD-ppl47w4jOYpcsYxoYB033HVdPfvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665956191778:android:09bdce7f5b3a5e474c047b",
+        "android_client_info": {
+          "package_name": "com.aers.safetyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUD-ppl47w4jOYpcsYxoYB033HVdPfvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
